@@ -1,0 +1,24 @@
+.profile__section__left {
+  background-color: brown;
+}
+.all__task__section__right {
+  background-color: chartreuse;
+}
+.form__check__box {
+  margin-left: 10px;
+}
+.done__section {
+  border: 1px solid green;
+  background-color: green;
+}
+.inprogress__section {
+  border: 1px solid yellow;
+  background-color: yellow;
+}
+.todo__section {
+  border: 1px solid red;
+  background-color: red;
+}
+.all__tasks {
+  margin-top: 50px;
+}

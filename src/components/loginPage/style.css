@@ -1,0 +1,41 @@
+.image__left {
+  padding-top: 744px;
+  background-color: #4bd18a;
+}
+.left__icon {
+  position: relative;
+  bottom: 271px;
+}
+.app__title {
+  justify-content: center;
+  text-align: center;
+  margin-top: 322px;
+  font-size: 4rem;
+}
+.username__field {
+  border: none;
+  margin-top: 32px;
+  padding: 23px;
+  background: aquamarine;
+  padding-left: 119px;
+}
+.password__field {
+  border: none;
+  margin-top: 32px;
+  padding: 23px;
+  background: aquamarine;
+  padding-left: 119px;
+}
+.form__fields {
+  justify-content: center;
+  text-align: center;
+}
+.login__button {
+  margin: 44px;
+  border: none;
+  color: white;
+  background-color: #4bd18a;
+  padding: 21px;
+  height: 63px;
+  width: 345px;
+}

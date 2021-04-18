@@ -1,0 +1,10 @@
+.filter__bar {
+  border: 1px solid black;
+  margin-left: 9px;
+  text-align: center;
+  cursor: pointer;
+  padding: 18px;
+}
+.filter__box {
+  padding: 10px;
+}
