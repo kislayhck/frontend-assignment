@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/frontend-assignment/static/css/main.53d9b340.chunk.css",
+    "main.js": "/frontend-assignment/static/js/main.f184abe8.chunk.js",
+    "main.js.map": "/frontend-assignment/static/js/main.f184abe8.chunk.js.map",
+    "runtime-main.js": "/frontend-assignment/static/js/runtime-main.f95e6c36.js",
+    "runtime-main.js.map": "/frontend-assignment/static/js/runtime-main.f95e6c36.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/frontend-assignment/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.d05cd170.chunk.js": "/frontend-assignment/static/js/2.d05cd170.chunk.js",
+    "static/js/2.d05cd170.chunk.js.map": "/frontend-assignment/static/js/2.d05cd170.chunk.js.map",
+    "static/js/3.07320cf0.chunk.js": "/frontend-assignment/static/js/3.07320cf0.chunk.js",
+    "static/js/3.07320cf0.chunk.js.map": "/frontend-assignment/static/js/3.07320cf0.chunk.js.map",
+    "index.html": "/frontend-assignment/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/frontend-assignment/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.53d9b340.chunk.css.map": "/frontend-assignment/static/css/main.53d9b340.chunk.css.map",
+    "static/js/2.d05cd170.chunk.js.LICENSE.txt": "/frontend-assignment/static/js/2.d05cd170.chunk.js.LICENSE.txt",
+    "static/media/dummy.4dc722e8.jpeg": "/frontend-assignment/static/media/dummy.4dc722e8.jpeg",
+    "static/media/switchon.d411ce20.png": "/frontend-assignment/static/media/switchon.d411ce20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f95e6c36.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.d05cd170.chunk.js",
+    "static/css/main.53d9b340.chunk.css",
+    "static/js/main.f184abe8.chunk.js"
+  ]
+}
